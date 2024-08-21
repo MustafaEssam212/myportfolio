@@ -2,6 +2,53 @@ const portfolio = [
 
     {
         id: 0,
+        projectName: "Netflix Clone",
+        url: "https://netflix-opal-seven.vercel.app/",
+        image: "projects/111.png",
+        projectDetail: "Recreated the full Netflix web application, including both the UI and back-end authentication.",
+        technologiesUsed: [
+            {
+                tech: "NEXT JS"
+            },
+            {
+                tech: "SCSS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "MONGO DB"
+            },
+        ]
+    },
+
+    {
+        id: 0,
+        projectName: "Rehab Clinic",
+        url: "https://rehabeg.clinic/",
+        image: "projects/22.png",
+        projectDetail: "Developed a comprehensive medical application from scratch using Next.js, handling both front-end and backend development.",
+        technologiesUsed: [
+            {
+                tech: "NEXT JS"
+            },
+            {
+                tech: "SCSS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "MONGO DB"
+            },
+            {
+                tech: "Socket.io"
+            },
+        ]
+    },
+
+    {
+        id: 0,
         projectName: "GGEG",
         url: "https://ggegy.com/",
         image: "projects/1.png",
