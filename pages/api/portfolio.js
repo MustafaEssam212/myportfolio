@@ -2,6 +2,28 @@ const portfolio = [
 
     {
         id: 0,
+        projectName: "Flennor-Parts",
+        url: "https://flennor-parts.com/",
+        image: "projects/flennor.png",
+        projectDetail: "Developed the Flennor-Parts web application from scratch for Flennor, a multinational company with operations in Germany, Canada, UAE, Egypt, and Turkey. The project involved implementing both the UI and back-end, as well as designing the database.",
+        technologiesUsed: [
+            {
+                tech: "NEXT JS"
+            },
+            {
+                tech: "SCSS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "MONGO DB"
+            },
+        ]
+    },
+
+    {
+        id: 0,
         projectName: "Netflix Clone",
         url: "https://netflix-opal-seven.vercel.app/",
         image: "projects/111.png",
