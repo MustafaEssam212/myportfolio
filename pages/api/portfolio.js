@@ -72,9 +72,34 @@ const portfolio = [
     {
         id: 0,
         projectName: "GGEG",
-        url: "https://ggegy.com/",
+        url: "https://ggeg-official.vercel.app/",
         image: "projects/1.png",
         projectDetail: "GGEG is a live solution for E-Sports tournaments in MENA.",
+        technologiesUsed: [
+            {
+                tech: "NEXT JS"
+            },
+            {
+                tech: "SCSS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "MONGO DB"
+            },
+            {
+                tech: "Express JS"
+            },
+        ]
+    },
+
+    {
+        id: 0,
+        projectName: "E-Commerce Dine Market",
+        url: "https://e-commerce-fullstack-4j1r3cnky-mustafaessam212s-projects.vercel.app/",
+        image: "projects/333.png",
+        projectDetail: "Implemented a Full-Stack E-Commerce.",
         technologiesUsed: [
             {
                 tech: "NEXT JS"
