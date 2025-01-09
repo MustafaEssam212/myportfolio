@@ -99,7 +99,7 @@ const portfolio = [
         projectName: "E-Commerce Dine Market",
         url: "https://e-commerce-fullstack-4j1r3cnky-mustafaessam212s-projects.vercel.app/",
         image: "projects/333.png",
-        projectDetail: "Implemented a Full-Stack E-Commerce.",
+        projectDetail: "Implemented a Full-Stack Basic E-Commerce.",
         technologiesUsed: [
             {
                 tech: "NEXT JS"
